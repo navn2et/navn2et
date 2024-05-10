@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Navneet!:
- ☁️ I'm currently working on AWS cloud<br/> 👯‍♀️ I'm looking to collaborate on Web dev projects and UI/UX projects<br/> 🌱 I'm currently learning Data structures and algorithm<br/> 💭 Ask me about Design<br/> ⚡I love watching formula 1 
+ ☁️ I'm currently working on AWS cloud<br/> 👯‍♀️ I'm looking to collaborate on Web dev projects and UI/UX projects<br/> 🌱 I'm currently learning Data structures and algorithm<br/> 💭 Ask me about Design<br/> 
 
 
 ## 🌐 Socials:
